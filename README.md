@@ -4,5 +4,5 @@ Connect Frontend To your Backend!
 
 #### For Production, Include Them In Your Body
 ```javascript
-<script src="https://rawcdn.githack.com/vizx-enterprises/Zyvex/89fcb348a7a84e85bf540c58a905b91cd3b1c27f/src/zyvex.js">
+<script src="https://cdn.jsdelivr.net/gh/vizx-enterprises/zyvex/src/zyvex.js><\script>
 ```
