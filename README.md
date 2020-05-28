@@ -4,5 +4,5 @@ Connect Frontend To your Backend!
 
 #### For Production, Include Them In Your Body
 ```html
-<script src="https://cdn.jsdelivr.net/gh/vizx-enterprises/zyvex/src/zyvex.js><\script>
+<script src="https://cdn.jsdelivr.net/gh/vizx-enterprises/zyvex/src/zyvex.min.js><\script>
 ```
